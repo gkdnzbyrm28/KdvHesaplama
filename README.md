@@ -1,1 +1,3 @@
 # KdvHesaplama
+
+KDV'li ürünleri hesaplama programı...
